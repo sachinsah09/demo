@@ -6,8 +6,12 @@ public static void main()
 
 
 
-hello commit 1
+<<<<<<< HEAD
 Styetm.out.trintln("line added in master branch");
+=======
+
+
+>>>>>>> parent of a828fdf... Revert "stage 1"
 
 
 }
